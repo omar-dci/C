@@ -5,7 +5,7 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 const port=process.env.PORT||3000;
 const MongoClient=require('mongodb').MongoClient;
-const dbUrl='mongodb+srv://omar:567728@cluster0-bnl9p.mongodb.net/test?retryWrites=true';
+const dbUrl='mongodb+srv://omar:Passowrd@cluster0-bnl9p.mongodb.net/test?retryWrites=true';
 const dbName="prototypeDb";
 const url=require('url')
 

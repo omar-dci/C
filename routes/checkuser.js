@@ -1,5 +1,5 @@
 const MongoClient=require('mongodb').MongoClient;
-const dbUrl='mongodb+srv://omar:567728@cluster0-bnl9p.mongodb.net/test?retryWrites=true';
+const dbUrl='mongodb+srv://omar:Passsowrd@cluster0-bnl9p.mongodb.net/test?retryWrites=true';
 const dbName="prototypeDb";
 
 
